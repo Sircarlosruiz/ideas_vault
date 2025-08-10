@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3019da5d8d450a64",
-        "type": "split",
+        "id": "5c631021f2c936a7",
+        "type": "tabs",
         "children": [
           {
-            "id": "5c631021f2c936a7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "61d8de0a444dea81",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Vista gráfica"
-                }
-              }
-            ]
-          },
-          {
-            "id": "b55bff13586d873f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e388e5cec7dcae06",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "C:\\Users\\CARLOS\\Documents\\Obsidian Vault\\Ideas Vault",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "C:\\Program Files\\Git\\bin\\bash.exe",
-                        "name": "",
-                        "platforms": {
-                          "win32": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: MINGW64:/c/Users/CARLOS/Documents/Obsidian Vault/Ideas Vault"
-                }
-              }
-            ]
+            "id": "61d8de0a444dea81",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,12 +156,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e388e5cec7dcae06",
+  "active": "315fc7a79fcf80ed",
   "lastOpenFiles": [
     "Filosofía/Conceptos/La libertad.md",
     "Filosofía/Conceptos/La Moral.md",
