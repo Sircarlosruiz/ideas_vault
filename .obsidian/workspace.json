@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bded9a77f9289f93",
+        "id": "cdc99aecf39fd265",
         "type": "split",
         "children": [
           {
@@ -15,20 +15,24 @@
                 "id": "61d8de0a444dea81",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "Musica/Composición/2 - 5 -1.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "Nueva pestaña"
+                  "title": "2 - 5 -1"
                 }
               }
             ]
           },
           {
-            "id": "62dc8d65b8f59cf9",
+            "id": "2429ff7f9e18371a",
             "type": "tabs",
             "children": [
               {
-                "id": "12a23c66dee1160e",
+                "id": "402d723b3fff90da",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -125,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc299f2ab3b9cfda",
@@ -206,12 +211,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12a23c66dee1160e",
+  "active": "402d723b3fff90da",
   "lastOpenFiles": [
+    "Musica/Composición/2 - 5 -1.md",
+    "Sin título.md",
     "Musica/Sin nombre",
     "Musica/Composición",
     "Musica/Teoría",
