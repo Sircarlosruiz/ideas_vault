@@ -1,5 +1,5 @@
 ---
 tags:
   - Musica
-  - Teoría
+  - Armonía
 ---

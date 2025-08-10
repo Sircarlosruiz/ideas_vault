@@ -1,5 +1,5 @@
 ---
 tags:
   - Musica
-  - Teoría
+  - Melodía_Ritmo
 ---
